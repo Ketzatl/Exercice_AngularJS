@@ -1,0 +1,19 @@
+
+.spacer {
+    margin-top: 10px;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.menu {
+    padding-right: 2vw;
+}
+
+
+.table-hover > tbody >tr:hover > td,
+.table-hover > tbody >tr:hover > th {
+    background-color: #428BCA;
+    color: #ffffff;
+}
